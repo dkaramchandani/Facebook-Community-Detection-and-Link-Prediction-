@@ -1,1 +1,1 @@
-# o-Facebook-Community-Detection-and-Link-Prediction-
+# Facebook-Community-Detection-and-Link-Prediction-
